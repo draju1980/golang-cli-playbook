@@ -1,3 +1,3 @@
-module github.com/draju1980/golang-cli-playbook
+module github.com/pluralsight-projects/golang-cli-playbook
 
 go 1.13
